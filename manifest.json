@@ -1,0 +1,24 @@
+{
+  "sha256": "11e111d0392a2db0797ddfa898dc5a2d439277a2195d458589c4c3b18d6eaaa0",
+  "bytes": 22504309,
+  "parts": [
+    {
+      "file": "model-11e111d0392a.part0.bin",
+      "start": 0,
+      "end": 7501437,
+      "sha256": "6fe9f8c08d69f072433e7c5aeb621de8232f450a676462533e92a3677084230b"
+    },
+    {
+      "file": "model-11e111d0392a.part1.bin",
+      "start": 7501437,
+      "end": 15002874,
+      "sha256": "d6782b04cefa851bd8323b916b3b829fe86743e940b41c403fbc2a5bcb7f4569"
+    },
+    {
+      "file": "model-11e111d0392a.part2.bin",
+      "start": 15002874,
+      "end": 22504309,
+      "sha256": "f10cfed5e95bfd25834d76b43cc21de8a83104913e7f2b823e390280de4d5325"
+    }
+  ]
+}
